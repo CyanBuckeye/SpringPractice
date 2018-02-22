@@ -1,5 +1,0 @@
-EventManager.class
-domain/Event.class
-util/HibernateUtil.class
-web/EventManagerServlet.class
-domain/Person.class

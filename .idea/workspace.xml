@@ -1,7 +1,41 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3a01cfdc-ed13-438f-990b-fe6e8d4c811a" name="Default" comment="" />
+    <list default="true" id="3a01cfdc-ed13-438f-990b-fe6e8d4c811a" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BookStore/.idea/compiler.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BookStore/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_9_0.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BookStore/.idea/libraries/Maven__javax_persistence_javax_persistence_api_2_2.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BookStore/.idea/libraries/Maven__org_springframework_security_spring_security_core_5_0_2_RELEASE.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BookStore/.idea/libraries/Maven__org_springframework_spring_aop_5_0_4_RELEASE.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BookStore/.idea/libraries/Maven__org_springframework_spring_beans_5_0_4_RELEASE.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BookStore/.idea/libraries/Maven__org_springframework_spring_context_5_0_4_RELEASE.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BookStore/.idea/libraries/Maven__org_springframework_spring_core_5_0_4_RELEASE.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BookStore/.idea/libraries/Maven__org_springframework_spring_expression_5_0_4_RELEASE.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BookStore/.idea/libraries/Maven__org_springframework_spring_jcl_5_0_4_RELEASE.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BookStore/.idea/libraries/Maven__org_springframework_spring_web_5_0_4_RELEASE.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BookStore/.idea/misc.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BookStore/.idea/modules.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BookStore/.idea/workspace.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BookStore/BookStore.iml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BookStore/pom.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BookStore/src/main/java/com/bookstore/domain/BillingAddress.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BookStore/src/main/java/com/bookstore/domain/Book.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BookStore/src/main/java/com/bookstore/domain/BookToCartItem.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BookStore/src/main/java/com/bookstore/domain/CartItem.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BookStore/src/main/java/com/bookstore/domain/Order.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BookStore/src/main/java/com/bookstore/domain/Payment.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BookStore/src/main/java/com/bookstore/domain/ShippingAddress.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BookStore/src/main/java/com/bookstore/domain/ShoppingCart.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BookStore/src/main/java/com/bookstore/domain/User.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BookStore/src/main/java/com/bookstore/domain/UserBilling.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BookStore/src/main/java/com/bookstore/domain/UserPayment.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BookStore/src/main/java/com/bookstore/domain/UserShipping.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BookStore/src/main/java/com/bookstore/domain/security/Authority.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BookStore/src/main/java/com/bookstore/domain/security/PasswordResetToken.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BookStore/src/main/java/com/bookstore/domain/security/Role.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BookStore/src/main/java/com/bookstore/domain/security/UserRole.java" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -22,8 +56,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="232" />
-    <option name="y" value="180" />
+    <option name="x" value="259" />
+    <option name="y" value="194" />
     <option name="width" value="1088" />
     <option name="height" value="948" />
   </component>
@@ -43,6 +77,9 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -107,9 +144,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -229,7 +263,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="232" y="180" width="1088" height="948" extended-state="0" />
+    <frame x="259" y="194" width="1088" height="948" extended-state="0" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -260,50 +294,24 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/EventManager.java">
+    <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="16" column="14" lean-forward="false" selection-start-line="16" selection-start-column="14" selection-end-line="16" selection-end-column="14" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/domain/Person.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/EventManager.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/domain/Person.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/domain/Event.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/EventManager.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/domain/Event.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/domain/Person.java" />
+    <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/domain/Event.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="3" column="13" lean-forward="false" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/EventManager.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="16" column="14" lean-forward="false" selection-start-line="16" selection-start-column="14" selection-end-line="16" selection-end-column="14" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/domain/Event.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="3" column="13" lean-forward="false" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/domain/Person.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>

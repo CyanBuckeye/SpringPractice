@@ -28,7 +28,7 @@ public class BookServiceImpl implements BookService{
     }
 
     public Book findOne(Long id) {
-        return bookRepository.findById(id).get(); //???!!! where is this method in bookRepository
+        return bookRepository.findOne(id); //???!!! where is this method in bookRepository
     }
 
     public List<Book> findByCategory(String category) {

@@ -69,7 +69,7 @@ public class CartItemServiceImpl implements CartItemService{
     }
 
     public CartItem findById(Long id) {
-        return cartItemRepository.findById(id).get();
+        return cartItemRepository.findOne(id);
     }
 
     public void removeCartItem(CartItem cartItem) {

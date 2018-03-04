@@ -2,6 +2,7 @@ package com.adminportal.domain;
 
 import javax.persistence.*;
 
+@Entity
 public class UserBilling {
 
     @Id

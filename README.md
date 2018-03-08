@@ -15,9 +15,9 @@ Main Techniques used
 
 ScreenShot
 ---------------------
-!(https://github.com/CyanBuckeye/SpringPractice/screenshot/login.png)
+![login](https://github.com/CyanBuckeye/SpringPractice/screenshot/login.png)
     Screenshot of *Accout Login Page*.
-!(https://github.com/CyanBuckeye/SpringPractice/screenshot/home.png)
+![home](https://github.com/CyanBuckeye/SpringPractice/screenshot/home.png)
     Screenshot of *Home Page*.
 
 

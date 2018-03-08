@@ -2,7 +2,7 @@ SpringPractice
 ==============
 Overview
 --------------
-    Build book selling website based on Udemy online course _Complete E-Commerce: Java, Spring and Hibernate_
+Build book selling website based on Udemy online course _Complete E-Commerce: Java, Spring and Hibernate_
 Main Techniques used
 --------------------
 

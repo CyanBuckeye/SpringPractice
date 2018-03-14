@@ -9,7 +9,7 @@ Build book selling website based on Udemy online course _Complete E-Commerce: Ja
  3. User makes payment and sets mail address <br/>
  4. Administrator Login <br/>
  
-![home page](http://github.com/cyanBuckeye/SpringPractice/raw/master/screenshot/home.png "home")
+![home page](https://raw.githubusercontent.com/cyanBuckeye/SpringPractice/master/screenshot/home.png "home")
 
 Main Techniques used
 --------------------

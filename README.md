@@ -20,6 +20,11 @@ Main Techniques used
 
 ### Back-End
     Java, Spring Boot, Spring MVC, MySQL
+	
+To Do
+--------------------
+1. Optimize UI design
+2. Implement RESTful API to allow book dealers to provide selling information
 
 
 

@@ -19,7 +19,7 @@ Main Techniques used
     Bootstrap Framework
 
 ### Back-End
-    Java, Spring Boot, Spring MVC, MySQL
+    Java, Spring Boot, MySQL
 	
 To Do
 --------------------
